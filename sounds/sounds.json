@@ -1,0 +1,32 @@
+{
+  "modifier.ray.cosmic.start": {
+    "sounds": [
+      "suit/beams/cosmic_ray_start"
+    ],
+    "category": "player"
+  },
+  "modifier.ray.cosmic.loop": {
+    "sounds": [
+      "suit/beams/cosmic_ray_loop"
+    ],
+    "category": "player"
+  },
+  "modifier.superspeed.flicker.loop.comics": {
+    "category": "player",
+    "sounds": [
+      "suit/speed/flicker_loop_comics"
+    ]
+  },
+  "modifier.superspeed.flicker.loop.zoom": {
+    "category": "player",
+    "sounds": [
+      "suit/speed/flicker_loop_zoom"
+    ]
+  },
+  "modifier.superspeed.flicker.loop.rf": {
+    "category": "player",
+    "sounds": [
+      "suit/speed/flicker_loop_rf"
+    ]
+  }
+}
